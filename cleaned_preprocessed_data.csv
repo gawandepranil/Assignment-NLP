@@ -1,0 +1,5 @@
+text,label,clean_text,processed_text,label_encoded
+I love machine learning,Positive,i love machine learning,love machine learning,1
+Machine learning is very interesting,Positive,machine learning is very interesting,machine learning interesting,1
+I hate boring lectures,Negative,i hate boring lectures,hate boring lecture,0
+This course is useless,Negative,this course is useless,course useless,0
