@@ -1,0 +1,5 @@
+text,predicted_entities
+Elon Musk is the CEO of Tesla and SpaceX.,"[('Elon Musk', 'PERSON'), ('Tesla', 'ORG')]"
+Apple was founded by Steve Jobs in California.,"[('Apple', 'ORG'), ('Steve Jobs', 'PERSON'), ('California', 'GPE')]"
+Google announced new AI features in India.,"[('Google', 'ORG'), ('AI', 'GPE'), ('India', 'GPE')]"
+Microsoft acquired OpenAI for billions of dollars.,"[('Microsoft', 'ORG'), ('OpenAI', 'ORG'), ('billions of dollars', 'MONEY')]"
